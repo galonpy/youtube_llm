@@ -71,7 +71,8 @@ Streamlit Hosting Instructions - Cloud Run
 The data is accessed live through Youtube's API and belongs to Youtube and its affiliates according to its [Terms of Services](https://developers.google.com/youtube/terms/api-services-terms-of-service).
 
 # Fine-Tuning BERT
-To fine-tune a BERT for this task, it is important to use a BERT configured for predicting sentence similarity. For an example, it is possible to clone this Hugging Face repository, and then run this file locally training_stsbenchmark_continue_training.py. The pretrained model can be varied in this file. For more background information, see here
+
+To fine-tune a BERT for this task, it is important to use a BERT configured for predicting sentence similarity. For an example, it is possible to clone this Hugging Face [repository](https://github.com/UKPLab/sentence-transformers/blob/master/examples/training/sts/training_stsbenchmark_continue_training.py#L11), and then run this file locally training_stsbenchmark_continue_training.py. The pretrained model can be varied in this file. For more background information, see [here](https://www.sbert.net/docs/training/overview.html)
 
 # Privacy Statement
 The default version of the app does not store user searches or preferences. The user can choose to go to the Account Setting tab to enable the saving of those preferences.
