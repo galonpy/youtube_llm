@@ -4,7 +4,8 @@ YouTube and Netflix give users the option to “dislike” a video. But, a disli
 
 # Key Links
 - [Medium Article](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca)
-- [Video](https://drive.google.com/file/d/10EIKd1QhmoLsq2TeQgsYkP51RMODiRMc/view?usp=drive_link)
+- [Demo Video](https://drive.google.com/file/d/10EIKd1QhmoLsq2TeQgsYkP51RMODiRMc/view?usp=drive_link)
+- [Hype Promo Video](https://youtube.com/shorts/H0ZquWuo5jc?feature=shared)
 
 # Getting Started
 
